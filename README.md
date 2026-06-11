@@ -46,7 +46,7 @@ This repository distills his approach into:
 
 From within Claude Code, first add the marketplace:
 ```
-/plugin marketplace add <github-username>/chenping-human-strategy
+/plugin marketplace add 1998x-stack/chenping-human-strategy
 ```
 
 Then install the plugin:
@@ -57,7 +57,7 @@ Then install the plugin:
 **Option B: CLAUDE.md (per-project)**
 
 ```bash
-curl -o CLAUDE.md https://raw.githubusercontent.com/<github-username>/chenping-human-strategy/main/CLAUDE.md
+curl -o CLAUDE.md https://raw.githubusercontent.com/1998x-stack/chenping-human-strategy/main/CLAUDE.md
 ```
 
 ## How to Know It's Working

@@ -45,14 +45,14 @@
 
 在 Claude Code 中：
 ```
-/plugin marketplace add <github-username>/chenping-human-strategy
+/plugin marketplace add 1998x-stack/chenping-human-strategy
 /plugin install chenping-human-strategy@chenping-human-strategy
 ```
 
 **方式B：项目级 CLAUDE.md**
 
 ```bash
-curl -o CLAUDE.md https://raw.githubusercontent.com/<github-username>/chenping-human-strategy/main/CLAUDE.md
+curl -o CLAUDE.md https://raw.githubusercontent.com/1998x-stack/chenping-human-strategy/main/CLAUDE.md
 ```
 
 ## 效果检验
