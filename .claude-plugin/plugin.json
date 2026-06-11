@@ -1,0 +1,14 @@
+{
+  "name": "chenping-human-strategy",
+  "version": "1.0.0",
+  "description": "Chen Ping Strategic Psychology — analyze situations through interest-mapping, motive elimination, and strategic manipulation of human nature",
+  "author": "mx",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "chenping-human-strategy",
+      "description": "Chen Ping Strategic Psychology. Analyze power dynamics, competition, and influence through the lens of ancient China's greatest human-nature strategist.",
+      "path": "skills/chenping-human-strategy/SKILL.md"
+    }
+  ]
+}

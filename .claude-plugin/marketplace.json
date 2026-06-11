@@ -1,0 +1,11 @@
+{
+  "name": "heros-distill",
+  "owner": "1998x-stack",
+  "plugins": [
+    {
+      "name": "chenping-human-strategy",
+      "description": "Chen Ping Strategic Psychology — analyze situations through interest-mapping, motive elimination, and strategic manipulation of human nature",
+      "version": "1.0.0"
+    }
+  ]
+}
